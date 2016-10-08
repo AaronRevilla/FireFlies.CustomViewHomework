@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Aaron Revilla CustomViewHomework</string>
+
+    <string-array name="mass_units">
+        <item unit="1000000" >(mg) milligram</item>
+        <item unit="1000" >(g) gram </item>
+        <item unit="1">(kg) kilogram </item>
+        <item unit="0.001">(t) tons</item>
+        <item unit="35.273962">(oz) ounces</item>
+        <item unit="2.20462">(lbs) pounds</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item unit="1000" >millimeter (mm)</item>
+        <item unit="100" >centimeter (cm)</item>
+        <item unit="1" >meter (m)</item>
+        <item unit="0.001" >kilometer (km)</item>
+        <item unit="0.03937" >inch (in)</item>
+        <item unit="0.003281" >foot (ft)</item>
+        <item unit="1.093613">yard (yd)</item>
+        <item unit="0.000621371">mile</item>
+    </string-array>
+
+
+</resources>
